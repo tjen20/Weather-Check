@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(to right, mediumblue, navy, midnightblue);
+    padding: 25px;
+}
