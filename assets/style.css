@@ -9,3 +9,7 @@
     background-image: linear-gradient(to right, mediumblue, navy, midnightblue);
     padding: 25px;
 }
+
+.forecast {
+    margin: 50px;
+}
